@@ -58,7 +58,7 @@ $conn->close();
 <html>
 <head>
     <title>Administration</title>
-    <link id="style" rel="stylesheet" type="text/css" href="style3.css">
+    <link id="style" rel="stylesheet" type="text/css" href="style6.css">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap');
   </style>

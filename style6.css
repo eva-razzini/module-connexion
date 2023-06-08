@@ -1,4 +1,4 @@
-    /* Styles 3 du formulaire */
+
     body {
         background-image: url(https://i.pinimg.com/originals/ec/b6/41/ecb6416c16b66e9e5409def9271224a2.gif);
         font-family: 'Bruno Ace SC', cursive;
@@ -94,4 +94,18 @@ section.bouton {
         font-family: 'Bruno Ace SC', cursive;
         font-size: 50px;
         color: #fff;
+    }
+    tr {
+        display: flex;
+        top: 130px;
+        width: 500px;
+        position: relative;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #ffffff2b;
+        text-align: center;
+        border: solid;
+        border-color: #ff0074;
+        flex-direction: column;
+        align-items: center;
     }
